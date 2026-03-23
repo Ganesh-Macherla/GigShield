@@ -1,0 +1,5 @@
+{
+  "name": "GigShield",
+  "description": "Parametric income insurance for gig workers. Automated payouts triggered by real-world disruptions like heavy rain.",
+  "requestFramePermissions": ["geolocation"]
+}
